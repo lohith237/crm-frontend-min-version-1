@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(auth)/forgot-password/page": "app/(auth)/forgot-password/page.js",
+  "/(auth)/page": "app/(auth)/page.js",
+  "/(auth)/reset-password/page": "app/(auth)/reset-password/page.js",
+  "/dashboard/Header/page": "app/dashboard/Header/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/SideBar/page": "app/dashboard/SideBar/page.js",
+  "/dashboard/contacts/page": "app/dashboard/contacts/page.js"
+}
