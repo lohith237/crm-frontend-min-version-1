@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL:"https://mern-mini-crm-backend-xgol.onrender.com",
+    baseURL:"https://api-staging.lohithdev.site/api",
 });
 
 api.interceptors.request.use(

@@ -182,7 +182,7 @@ export default function Contacts() {
 
       <DataTable
         columns={columns}
-        data={data?.results || []}
+        data={data?.users || []}
         pagination
         highlightOnHover
         pointerOnHover
